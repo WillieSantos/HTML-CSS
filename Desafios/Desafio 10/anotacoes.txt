@@ -1,0 +1,30 @@
+Estrutura recomendada HTML
+
+* header
+  h1
+  nav
+   a
+  /nav
+ /header
+
+* main
+  section id="o que voce desejar"
+  p
+  /section
+  section
+   article
+   h2
+   p
+   aside
+   p
+   /aside
+   /article
+  /section
+
+* footer
+  p
+
+
+
+
+  
